@@ -1,0 +1,47 @@
+MOST IMPORTANT FEATURES IN SCRUM:
+
+1-Product backlog:
+    The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the
+    single source of work undertaken by the Scrum Team.
+    Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for
+    selection in a Sprint Planning event.
+
+2-Sprint Planning:
+    Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting
+    plan is created by the collaborative work of the entire Scrum Team.
+    The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog
+    items and how they map to the Product Goal. The Scrum Team may also invite other people to attend
+    Sprint Planning to provide advice
+
+
+3-Sprint Backlog:
+    The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for
+    the Sprint (what), as well as an actionable plan for delivering the Increment (how).
+    The Sprint Backlog is a plan by and for the Developers. It is a highly visible, real-time picture of the work
+    that the Developers plan to accomplish during the Sprint in order to achieve the Sprint Goal.
+    Consequently, the Sprint Backlog is updated throughout the Sprint as more is learned. It should have
+    enough detail that they can inspect their progress in the Daily Scrum.
+
+4-Daily Scrum:
+    The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint
+    Backlog as necessary, adjusting the upcoming planned work.
+    The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is
+    held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master
+    are actively working on items in the Sprint Backlog, they participate as Developers
+
+5-Increment:
+    An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all
+    prior Increments and thoroughly verified, ensuring that all Increments work together. In order to
+    provide value, the Increment must be usable.
+
+6-Sprint Review:
+    The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future
+    adaptations. The Scrum Team presents the results of their work to key stakeholders and progress
+    toward the Product Goal is discussed.
+    During the event, the Scrum Team and stakeholders review what was accomplished in the Sprint and
+    what has changed in their environment.
+
+7-Sprint Retrospective:
+    The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness.
+    The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes,
+    tools, and their Definition of Done.
